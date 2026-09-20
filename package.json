@@ -1,0 +1,25 @@
+{
+  "name": "college-adventure-game",
+  "version": "1.0.0",
+  "description": "2D college adventure game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laasyaarun18-gif/college-adventure-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/laasyaarun18-gif/college-adventure-game/issues"
+  },
+  "homepage": "https://github.com/laasyaarun18-gif/college-adventure-game#readme",
+  "dependencies": {
+    "phaser": "^4.2.1",
+    "vite": "^8.3.0"
+  }
+}
